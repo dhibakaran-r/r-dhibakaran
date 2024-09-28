@@ -1,4 +1,5 @@
 function test(a){
+    console.log("hi");
     console.log("test "+2);
     
 }
